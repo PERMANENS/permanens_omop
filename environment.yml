@@ -1,0 +1,22 @@
+name: permanens
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.10
+  - yaml
+  - pip
+  - psycopg2
+  - pip:
+    - dill
+    - matplotlib
+    - numpy
+    - pandas
+    - polars
+    - scikit-learn
+    - scipy
+    - seaborn
+    - statsmodels
+    - lime
+    - forestplot
