@@ -1,4 +1,4 @@
-# Permanens UPF
+# Permanens OMOP extraction template
 
 ## Introduction
 This repository contains data scripts and modeling script developed for project PERMANENS
